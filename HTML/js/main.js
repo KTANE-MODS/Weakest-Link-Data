@@ -5,6 +5,7 @@ const init = () => {
     const jsonURL = "https://ktane-mods.github.io/Weakest-Link-Manual/JSON/data.json";
     
   downloadFile(jsonURL, (str) => {
+    console.log(jsonURL);
     json = JSON.parse(str);
     initalizeKtaneTables(json);
     initalizeGeographyTables(json);
