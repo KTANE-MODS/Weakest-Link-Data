@@ -2,7 +2,19 @@ let json;
 
 const init = () => {
     //const jsonURL = "../JSON/data.json";
-    const jsonURL = "http://localhost:5500/JSON/main.js";
+    const jsonURL = "https://ktane-mods.github.io/Weakest-Link-Manual/JSON/data.json";
+    
+  downloadFile(jsonURL, (str) => {
+    json = JSON.parse(str);
+    initalizeKtaneTables(json);
+    initalizeGeographyTables(json);
+    initalizeLanguageTables(json);
+    initalizeWildlifeTables(json);
+    initalizeBiologyTables(json);
+    initalizeHistoryTables(json);
+    initalizeMathTables(json);
+    initalizeOtherTables(json);
+  });
     
   downloadFile(jsonURL, (str) => {
     json = JSON.parse(str);
