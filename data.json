@@ -598,7 +598,8 @@
         {
             "Question": "Which Switch is the one where if it was the only one up, would it be an illegal position in Switches?",
             "Answers": [
-                "3, 3rd"
+                "3", 
+                "3rd"
             ],
             "WrongAnswers": [
                 "1st",
