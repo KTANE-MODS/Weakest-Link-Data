@@ -4290,7 +4290,9 @@
         {
             "Question": "The Mexican War was fought over a border dispute with which other country?",
             "Answers": [
-                "The USA"
+                "USA",
+                "United States",
+                "United States of America"
             ],
             "WrongAnswers": [
                 "Spain"
