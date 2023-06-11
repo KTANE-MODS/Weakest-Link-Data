@@ -4206,7 +4206,7 @@
             "Question": "John Glenn was the first man from which country to orbit the Earth?",
             "Answers": [
                 "USA",
-                "United States OR United States of America"
+                "United States", "United States of America"
             ],
             "WrongAnswers": [
                 " Germany",
