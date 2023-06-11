@@ -4346,7 +4346,7 @@
         {
             "Question": "Who was president during the Cuban Missile Crisis?",
             "Answers": [
-                "John F. Kennedy"
+                "John F. Kennedy", 'JFK"
             ],
             "WrongAnswers": [
                 "Lydon B Johsnon"
