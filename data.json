@@ -4576,7 +4576,7 @@
         {
             "Question": "Who won the 2008 U.S. Presidential election?",
             "Answers": [
-                "Barack Obama"
+                "Barack Obama", "Obama"
             ],
             "WrongAnswers": [
                 "Bill Clinton", "Hilairy Clinton"
