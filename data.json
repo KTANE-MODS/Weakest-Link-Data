@@ -4346,10 +4346,10 @@
         {
             "Question": "Who was president during the Cuban Missile Crisis?",
             "Answers": [
-                "John F. Kennedy", 'JFK"
+                "John F. Kennedy", "JFK"
             ],
             "WrongAnswers": [
-                "Lydon B Johsnon"
+                "Lydon B Johsnon", "KFC"
             ],
             "Category": "History"
         },
