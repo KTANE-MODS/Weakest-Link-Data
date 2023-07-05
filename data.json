@@ -488,7 +488,7 @@
             "WrongAnswers": [
                 "Down"
             ],
-            "Category": ""
+            "Category": "KTANE"
         },
         {
             "Question": "How many positions does each dial have in Safety Safe?",
@@ -751,7 +751,7 @@
             "WrongAnswers": [
                 "Lion share"
             ],
-            "Category": ""
+            "Category": "KTANE"
         },
         {
             "Question": "Seated and Teased, what other word can you spell in Anagrams?",
@@ -1685,7 +1685,7 @@
             "WrongAnswers": [
                 " South America"
             ],
-            "Category": ""
+            "Category": "Geography"
         },
         {
             "Question": "What isolated African nation has the highest rate of endemism in the world?",
@@ -2254,7 +2254,7 @@
             "WrongAnswers": [
                 "Extinct"
             ],
-            "Category": ""
+            "Category": "Language"
         },
         {
             "Question": "In English editions of Scrabble, which letter is worth 5 points?",
